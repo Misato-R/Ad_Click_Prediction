@@ -1,0 +1,100 @@
+id,full_name,age,gender,device_type,ad_position,browsing_history,time_of_day,click,gender_missing,browsing_history_missing,predicted_click_probability,predicted_click
+670,User670,-1.4759819367084874,Missing,Desktop,Top,Shopping,Afternoon,1,1,0,0.70237356,1
+3044,User3044,0.08023457866591983,Male,Desktop,Top,Missing,Afternoon,1,0,1,0.7004635,1
+5912,User5912,0.08023457866591983,Non-Binary,Mobile,Side,Education,Night,1,0,0,0.52939475,1
+5418,User5418,-0.4931083480509671,Male,Mobile,Top,Entertainment,Evening,1,0,0,0.65967363,1
+9452,User9452,-0.08357768611033357,Non-Binary,Mobile,Top,Social Media,Morning,0,0,0,0.61082804,1
+5942,User5942,0.08023457866591983,Non-Binary,Mobile,Bottom,Social Media,Evening,1,0,0,0.6056729,1
+7808,User7808,-1.1483574071559808,Female,Desktop,Top,Missing,Afternoon,1,0,1,0.7299215,1
+5065,User5065,-0.0016715537222068693,Male,Mobile,Side,Missing,Evening,0,0,1,0.6211311,1
+7993,User7993,0.08023457866591983,Non-Binary,Mobile,Bottom,Social Media,Afternoon,1,0,0,0.65320903,1
+4509,User4509,0.08023457866591983,Missing,Mobile,Bottom,Education,Afternoon,1,1,0,0.63202906,1
+2595,User2595,0.08023457866591983,Missing,Mobile,Bottom,Missing,Morning,1,1,1,0.65737724,1
+7466,User7466,0.5716713729946801,Missing,Mobile,Bottom,Missing,Afternoon,1,1,1,0.669273,1
+8171,User8171,0.08023457866591983,Non-Binary,Mobile,Side,Education,Afternoon,0,0,0,0.58951026,1
+2023,User2023,-1.7217003338728676,Missing,Desktop,Top,Missing,Afternoon,1,1,1,0.7398755,1
+973,User973,0.08023457866591983,Missing,Mobile,Top,Missing,Morning,1,1,1,0.6377781,1
+7529,User7529,0.08023457866591983,Missing,Mobile,Top,Entertainment,Afternoon,0,1,0,0.67882144,1
+8127,User8127,0.08023457866591983,Male,Tablet,Bottom,Missing,Afternoon,1,0,1,0.719331,1
+188,User188,1.3088265644878203,Female,Tablet,Bottom,News,Morning,1,0,0,0.60861117,1
+2124,User2124,0.08023457866591983,Male,Desktop,Top,Missing,Evening,1,0,1,0.65599346,1
+7335,User7335,-1.3121696719322342,Missing,Tablet,Side,Entertainment,Night,0,1,0,0.6855127,1
+5569,User5569,0.08023457866591983,Missing,Mobile,Bottom,Missing,Afternoon,1,1,1,0.6834608,1
+2272,User2272,0.9812020349353135,Missing,Tablet,Bottom,News,Morning,1,1,0,0.6130531,1
+2722,User2722,-0.08357768611033357,Missing,Desktop,Top,Missing,Afternoon,1,1,1,0.69619536,1
+316,User316,0.16214071105404654,Missing,Desktop,Top,Missing,Night,1,1,1,0.63474035,1
+9789,User9789,-0.32929608327471366,Missing,Tablet,Top,Missing,Afternoon,1,1,1,0.70420486,1
+4890,User4890,0.24404684344217323,Male,Tablet,Bottom,Education,Afternoon,1,0,0,0.66613317,1
+4994,User4994,1.8002633588165806,Missing,Mobile,Top,Missing,Night,0,1,1,0.55298066,1
+5055,User5055,0.40785910821842664,Male,Mobile,Top,Education,Morning,1,0,0,0.5831202,1
+6724,User6724,-0.24738995088658697,Female,Mobile,Top,Entertainment,Evening,1,0,0,0.64841735,1
+8253,User8253,0.08023457866591983,Non-Binary,Desktop,Bottom,Entertainment,Afternoon,1,0,0,0.7115865,1
+4945,User4945,-0.7388267452153472,Missing,Tablet,Top,Missing,Morning,1,1,1,0.6906857,1
+1729,User1729,-1.1483574071559808,Female,Mobile,Top,Missing,Afternoon,1,0,1,0.7048319,1
+6862,User6862,0.08023457866591983,Male,Tablet,Side,Missing,Afternoon,1,0,1,0.6936245,1
+4985,User4985,-0.24738995088658697,Male,Mobile,Top,News,Evening,0,0,0,0.5896982,1
+7361,User7361,0.08023457866591983,Missing,Mobile,Top,Entertainment,Afternoon,0,1,0,0.67882144,1
+1524,User1524,-1.3121696719322342,Missing,Mobile,Bottom,Missing,Night,1,1,1,0.67021567,1
+2542,User2542,1.4726388292640737,Non-Binary,Mobile,Side,Missing,Evening,1,0,1,0.5505891,1
+119,User119,1.5545449616522005,Missing,Tablet,Top,Missing,Afternoon,1,1,1,0.6499716,1
+5881,User5881,-1.1483574071559808,Non-Binary,Tablet,Top,Missing,Morning,1,0,1,0.6904838,1
+9642,User9642,0.08023457866591983,Non-Binary,Mobile,Bottom,Missing,Evening,1,0,1,0.6249805,1
+1171,User1171,0.08023457866591983,Missing,Mobile,Top,Missing,Night,1,1,1,0.608164,1
+1612,User1612,-0.0016715537222068693,Missing,Mobile,Top,News,Afternoon,1,1,0,0.6206843,1
+9586,User9586,0.08023457866591983,Missing,Desktop,Top,Shopping,Afternoon,0,1,0,0.6577658,1
+7661,User7661,0.6535775053828068,Missing,Mobile,Side,News,Night,1,1,0,0.530877,1
+4228,User4228,0.08023457866591983,Missing,Desktop,Side,Missing,Morning,1,1,1,0.6573286,1
+5574,User5574,0.9812020349353135,Female,Desktop,Bottom,Missing,Afternoon,1,0,1,0.68980753,1
+120,User120,0.08023457866591983,Missing,Desktop,Side,Missing,Night,0,1,1,0.6283815,1
+6143,User6143,0.08023457866591983,Missing,Mobile,Bottom,Missing,Afternoon,1,1,1,0.6834608,1
+301,User301,0.08023457866591983,Male,Tablet,Side,Social Media,Afternoon,1,0,0,0.676019,1
+5301,User5301,0.08023457866591983,Male,Mobile,Side,Social Media,Afternoon,1,0,0,0.64702344,1
+5439,User5439,-0.16548381849846028,Missing,Mobile,Top,Social Media,Afternoon,1,1,0,0.6535445,1
+9806,User9806,1.4726388292640737,Male,Tablet,Bottom,Missing,Afternoon,1,0,1,0.6808065,1
+9888,User9888,0.7354836377709335,Male,Mobile,Top,News,Morning,1,0,0,0.579079,1
+4525,User4525,0.08023457866591983,Missing,Mobile,Top,Entertainment,Afternoon,0,1,0,0.67882144,1
+6153,User6153,-0.8207328776034739,Missing,Mobile,Side,Entertainment,Night,1,1,0,0.64218146,1
+7498,User7498,0.08023457866591983,Male,Mobile,Side,Shopping,Afternoon,1,0,0,0.6302477,1
+9736,User9736,0.48976524060655335,Missing,Desktop,Top,Education,Evening,1,1,0,0.57952225,1
+2244,User2244,0.16214071105404654,Missing,Mobile,Top,Missing,Evening,0,1,1,0.61514896,1
+4952,User4952,0.08023457866591983,Female,Mobile,Top,Missing,Night,0,0,1,0.61399364,1
+4855,User4855,0.08023457866591983,Non-Binary,Desktop,Top,Missing,Afternoon,0,0,1,0.67976105,1
+9590,User9590,0.08023457866591983,Non-Binary,Tablet,Top,Missing,Morning,0,0,1,0.6548269,1
+813,User813,0.08023457866591983,Missing,Tablet,Top,Education,Morning,1,1,0,0.61455464,1
+4957,User4957,1.4726388292640737,Male,Mobile,Bottom,Social Media,Evening,1,0,0,0.58475554,1
+9431,User9431,0.08023457866591983,Missing,Mobile,Top,Entertainment,Afternoon,1,1,0,0.67882144,1
+6935,User6935,0.08023457866591983,Male,Mobile,Top,Missing,Morning,0,0,1,0.6473935,1
+2431,User2431,1.1450142997115669,Male,Desktop,Top,Missing,Night,1,0,1,0.61415935,1
+3164,User3164,0.08023457866591983,Female,Desktop,Top,Missing,Evening,1,0,1,0.6520702,1
+4756,User4756,0.08023457866591983,Non-Binary,Mobile,Bottom,Education,Evening,1,0,0,0.57002467,1
+1524,User1524,-1.3121696719322342,Missing,Mobile,Bottom,Missing,Night,1,1,1,0.67021567,1
+7674,User7674,0.08023457866591983,Missing,Mobile,Bottom,News,Afternoon,1,1,0,0.6381964,1
+6251,User6251,0.3259529758302999,Non-Binary,Mobile,Side,Shopping,Morning,1,0,0,0.57100236,1
+6751,User6751,0.08023457866591983,Female,Tablet,Top,Missing,Evening,0,0,1,0.6533725,1
+9996,User9996,0.6535775053828068,Missing,Desktop,Top,Shopping,Evening,0,1,0,0.59235543,1
+2973,User2973,-1.066451274767854,Non-Binary,Mobile,Bottom,Missing,Night,1,0,1,0.6506244,1
+6315,User6315,0.08023457866591983,Missing,Desktop,Top,Missing,Afternoon,1,1,1,0.69160587,1
+7065,User7065,1.390732696875947,Missing,Desktop,Top,Missing,Morning,1,1,1,0.62637174,1
+9412,User9412,0.08023457866591983,Missing,Mobile,Bottom,Social Media,Morning,1,1,0,0.63877356,1
+3458,User3458,0.08023457866591983,Missing,Tablet,Top,Missing,Afternoon,0,1,1,0.6928299,1
+6121,User6121,0.08023457866591983,Missing,Desktop,Top,Missing,Afternoon,0,1,1,0.69160587,1
+487,User487,-0.9845451423797273,Missing,Mobile,Side,Missing,Afternoon,1,1,1,0.6870031,1
+3266,User3266,0.08023457866591983,Male,Tablet,Top,News,Afternoon,1,0,0,0.65770274,1
+5574,User5574,0.9812020349353135,Female,Mobile,Bottom,Shopping,Afternoon,1,0,0,0.6274108,1
+6553,User6553,0.08023457866591983,Missing,Desktop,Bottom,Education,Morning,1,1,0,0.63335747,1
+8996,User8996,-1.4759819367084874,Female,Desktop,Top,Entertainment,Evening,0,0,0,0.71052957,1
+503,User503,0.24404684344217323,Missing,Desktop,Top,Social Media,Morning,1,1,0,0.64252794,1
+4581,User4581,0.8992959025471868,Missing,Mobile,Top,Missing,Afternoon,0,1,1,0.640098,1
+3266,User3266,0.08023457866591983,Male,Tablet,Top,News,Afternoon,1,0,0,0.65770274,1
+8956,User8956,0.08023457866591983,Male,Tablet,Top,News,Morning,1,0,0,0.6306438,1
+9990,User9990,0.08023457866591983,Male,Desktop,Side,Missing,Night,1,0,1,0.6381048,1
+7426,User7426,0.08023457866591983,Missing,Mobile,Side,Missing,Night,0,1,1,0.5990407,1
+6100,User6100,0.08023457866591983,Missing,Desktop,Top,Education,Afternoon,1,1,0,0.6408021,1
+3543,User3543,0.08023457866591983,Missing,Mobile,Top,Missing,Night,1,1,1,0.608164,1
+7866,User7866,0.08023457866591983,Missing,Mobile,Top,Social Media,Morning,1,1,0,0.61872745,1
+7917,User7917,0.08023457866591983,Non-Binary,Tablet,Side,Missing,Afternoon,0,0,1,0.6726703,1
+63,User63,0.08023457866591983,Female,Tablet,Top,Social Media,Afternoon,0,0,0,0.6805563,1
+5340,User5340,-1.7217003338728676,Missing,Mobile,Side,Missing,Night,0,1,1,0.65456206,1
+2907,User2907,0.08023457866591983,Missing,Mobile,Side,News,Afternoon,0,1,0,0.60909706,1
+7545,User7545,-1.2302635395441075,Male,Tablet,Top,News,Evening,0,0,0,0.65065485,1
+3746,User3746,0.08023457866591983,Missing,Mobile,Top,Missing,Morning,1,1,1,0.6377781,1

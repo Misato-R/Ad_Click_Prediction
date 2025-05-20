@@ -1,0 +1,100 @@
+id,full_name,age,gender,device_type,ad_position,browsing_history,time_of_day,click
+670,User670,22,,Desktop,Top,Shopping,Afternoon,1
+3044,User3044,,Male,Desktop,Top,,,1
+5912,User5912,41,Non-Binary,,Side,Education,Night,1
+5418,User5418,34,Male,,,Entertainment,Evening,1
+9452,User9452,39,Non-Binary,,,Social Media,Morning,0
+5942,User5942,,Non-Binary,,Bottom,Social Media,Evening,1
+7808,User7808,26,Female,Desktop,Top,,,1
+5065,User5065,40,Male,Mobile,Side,,Evening,0
+7993,User7993,,Non-Binary,Mobile,Bottom,Social Media,,1
+4509,User4509,,,,Bottom,Education,Afternoon,1
+2595,User2595,,,,Bottom,,Morning,1
+7466,User7466,47,,Mobile,Bottom,,Afternoon,1
+8171,User8171,,Non-Binary,Mobile,Side,Education,Afternoon,0
+2023,User2023,19,,Desktop,,,,1
+973,User973,,,Mobile,,,Morning,1
+7529,User7529,,,,Top,Entertainment,Afternoon,0
+8127,User8127,,Male,Tablet,Bottom,,,1
+188,User188,56,Female,Tablet,Bottom,News,Morning,1
+2124,User2124,,Male,Desktop,Top,,Evening,1
+7335,User7335,24,,Tablet,Side,Entertainment,Night,0
+5569,User5569,,,Mobile,Bottom,,Afternoon,1
+2272,User2272,52,,Tablet,Bottom,News,Morning,1
+2722,User2722,39,,Desktop,Top,,,1
+316,User316,42,,Desktop,Top,,Night,1
+9789,User9789,36,,Tablet,,,,1
+4890,User4890,43,Male,Tablet,Bottom,Education,Afternoon,1
+4994,User4994,62,,Mobile,,,Night,0
+5055,User5055,45,Male,,,Education,Morning,1
+6724,User6724,37,Female,,Top,Entertainment,Evening,1
+8253,User8253,,Non-Binary,Desktop,Bottom,Entertainment,,1
+4945,User4945,31,,Tablet,Top,,Morning,1
+1729,User1729,26,Female,Mobile,Top,,Afternoon,1
+6862,User6862,,Male,Tablet,Side,,,1
+4985,User4985,37,Male,Mobile,Top,News,Evening,0
+7361,User7361,,,Mobile,Top,Entertainment,Afternoon,0
+1524,User1524,24,,Mobile,Bottom,,Night,1
+2542,User2542,58,Non-Binary,Mobile,Side,,Evening,1
+119,User119,59,,Tablet,Top,,,1
+5881,User5881,26,Non-Binary,Tablet,Top,,Morning,1
+9642,User9642,,Non-Binary,,Bottom,,Evening,1
+1171,User1171,,,Mobile,,,Night,1
+1612,User1612,40,,Mobile,,News,,1
+9586,User9586,,,Desktop,,Shopping,Afternoon,0
+7661,User7661,48,,Mobile,Side,News,Night,1
+4228,User4228,,,Desktop,Side,,Morning,1
+5574,User5574,52,Female,Desktop,Bottom,,Afternoon,1
+120,User120,,,Desktop,Side,,Night,0
+6143,User6143,,,,Bottom,,Afternoon,1
+301,User301,,Male,Tablet,Side,Social Media,,1
+5301,User5301,,Male,,Side,Social Media,,1
+5439,User5439,38,,,,Social Media,Afternoon,1
+9806,User9806,58,Male,Tablet,Bottom,,,1
+9888,User9888,49,Male,Mobile,Top,News,Morning,1
+4525,User4525,,,Mobile,Top,Entertainment,,0
+6153,User6153,30,,,Side,Entertainment,Night,1
+7498,User7498,,Male,,Side,Shopping,Afternoon,1
+9736,User9736,46,,Desktop,,Education,Evening,1
+2244,User2244,42,,Mobile,Top,,Evening,0
+4952,User4952,41,Female,,,,Night,0
+4855,User4855,,Non-Binary,Desktop,Top,,,0
+9590,User9590,,Non-Binary,Tablet,,,Morning,0
+813,User813,,,Tablet,Top,Education,Morning,1
+4957,User4957,58,Male,,Bottom,Social Media,Evening,1
+9431,User9431,,,Mobile,Top,Entertainment,Afternoon,1
+6935,User6935,,Male,Mobile,,,Morning,0
+2431,User2431,54,Male,Desktop,Top,,Night,1
+3164,User3164,,Female,Desktop,,,Evening,1
+4756,User4756,,Non-Binary,Mobile,Bottom,Education,Evening,1
+1524,User1524,24,,Mobile,Bottom,,Night,1
+7674,User7674,,,,Bottom,News,Afternoon,1
+6251,User6251,44,Non-Binary,,Side,Shopping,Morning,1
+6751,User6751,,Female,Tablet,,,Evening,0
+9996,User9996,48,,Desktop,Top,Shopping,Evening,0
+2973,User2973,27,Non-Binary,,Bottom,,Night,1
+6315,User6315,,,Desktop,Top,,Afternoon,1
+7065,User7065,57,,Desktop,,,Morning,1
+9412,User9412,,,,Bottom,Social Media,Morning,1
+3458,User3458,,,Tablet,,,,0
+6121,User6121,,,Desktop,Top,,Afternoon,0
+487,User487,28,,Mobile,Side,,Afternoon,1
+3266,User3266,,Male,Tablet,Top,News,Afternoon,1
+5574,User5574,52,Female,,Bottom,Shopping,Afternoon,1
+6553,User6553,,,Desktop,Bottom,Education,Morning,1
+8996,User8996,22,Female,Desktop,,Entertainment,Evening,0
+503,User503,43,,Desktop,,Social Media,Morning,1
+4581,User4581,51,,,Top,,,0
+3266,User3266,,Male,Tablet,Top,News,Afternoon,1
+8956,User8956,,Male,Tablet,,News,Morning,1
+9990,User9990,,Male,Desktop,Side,,Night,1
+7426,User7426,,,Mobile,Side,,Night,0
+6100,User6100,,,Desktop,,Education,,1
+3543,User3543,,,,Top,,Night,1
+7866,User7866,,,Mobile,Top,Social Media,Morning,1
+7917,User7917,,Non-Binary,Tablet,Side,,Afternoon,0
+63,User63,,Female,Tablet,Top,Social Media,,0
+5340,User5340,19,,Mobile,Side,,Night,0
+2907,User2907,,,Mobile,Side,News,,0
+7545,User7545,25,Male,Tablet,,News,Evening,0
+3746,User3746,,,,,,Morning,1
